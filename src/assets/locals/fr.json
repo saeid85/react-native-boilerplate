@@ -1,0 +1,10 @@
+{
+  "sample_1": {
+    "sampleText1": "Exemple de texte 1",
+    "SampleText2": "Exemple de texte 2"
+  },
+  "sample_2": {
+    "sampleText3": "Exemple de texte 3",
+    "SampleText4": "Exemple de texte 4"
+  }
+}
